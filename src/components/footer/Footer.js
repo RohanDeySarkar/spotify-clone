@@ -83,9 +83,11 @@ function Footer({spotify}) {
     return (
         <div className="footer">
             <div className="footer__left">
+                {/* not premiuim account so passing images */}
                 <img
                     className="footer__albumLogo"
-                    src={item?.album.images[0].url}
+                    // src={item?.album.images[0].url}
+                    src="https://i.scdn.co/image/ab67616d0000b273107d182a8d39586f8f3f23a0"
                     alt={item?.name}
                 />
                 {item ? (
@@ -95,8 +97,8 @@ function Footer({spotify}) {
                     </div>
                 ) : (
                     <div className="footer__songInfo">
-                        <h4>No song is playing</h4>
-                        <p>...</p>
+                        <h4>Black Ice</h4>
+                        <p>AC/DC</p>
                     </div>
                 )}
             </div>
