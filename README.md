@@ -1,5 +1,7 @@
 Deployed here ----> https://rohandeysarkar.github.io/spotify-clone/.
 
+![](https://media-exp1.licdn.com/dms/image/C5622AQEh7sUfF6_uBA/feedshare-shrink_1280-alternative/0?e=1607558400&v=beta&t=t11f9PUMqZQpuDasd2rVo5ZmR3jX5KTuvVAr3C2QHdY)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
